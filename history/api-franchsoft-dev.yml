@@ -1,7 +1,7 @@
 url: https://api.franchsoft.online/health
 status: down
-code: 503
-responseTime: 550
-lastUpdated: 2026-04-29T23:53:38.561Z
+code: 404
+responseTime: 619
+lastUpdated: 2026-04-30T23:51:46.646Z
 startTime: 2026-04-20T09:46:58.356Z
 generator: Upptime <https://github.com/upptime/upptime>
