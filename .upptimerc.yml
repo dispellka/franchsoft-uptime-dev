@@ -6,7 +6,7 @@ repo: franchsoft-uptime-dev
 
 sites:
   - name: API (Franchsoft DEV)
-    url: https://api.franchsoft.online/health
+    url: https://api.franchsoft.online/api/health
     expectedStatusCodes:
       - 200
   - name: Admin (Franchsoft DEV)
