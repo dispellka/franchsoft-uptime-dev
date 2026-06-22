@@ -9,6 +9,10 @@ sites:
     url: https://api.franchsoft.online/api/health
     expectedStatusCodes:
       - 200
+  - name: API Egress (TG channel, DEV)
+    url: https://api.franchsoft.online/api/health/egress
+    expectedStatusCodes:
+      - 200
   - name: Admin (Franchsoft DEV)
     url: https://admin.franchsoft.online
     expectedStatusCodes:
