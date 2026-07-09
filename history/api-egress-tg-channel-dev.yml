@@ -1,7 +1,7 @@
 url: https://api.franchsoft.online/api/health/egress
-status: down
-code: 503
-responseTime: 194
-lastUpdated: 2026-07-09T14:06:25.183Z
+status: up
+code: 200
+responseTime: 304
+lastUpdated: 2026-07-09T16:34:21.076Z
 startTime: 2026-06-22T21:47:21.908Z
 generator: Upptime <https://github.com/upptime/upptime>
